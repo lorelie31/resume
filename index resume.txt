@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<head> 
+<title>FoC</title>
+<link rel="stylesheet" type="text/css" href="style.css"> 
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+<style>
+body{
+width: 21cm;
+        height: 29.7cm;
+        margin: 30mm 45mm 30mm 45mm;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 48px 60px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+img {
+  float: right;
+}
+
+#name {
+  display: inline;
+  font-size: large;
+  font-weight: bold;
+
+}
+
+#contact {
+  display: inline;
+}
+
+.column {
+  float: left;
+  width: 35%;
+  padding: 10px;
+ 
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+</style>
+
+<h1>Lorelie Martinez</h1>   
+<p>Pond Avenue 
+<p>San Ignacio
+<p>University of Belize</p>
+<p>Aint.</p>
+<p>web developer.</p>
+
+
+<p> I am a student at university of Belize <a href="https://www.ub.edu.bz/">UB</a> 
+
+
+
+<p> There are my skills
+
+
+<ul>
+  <li>C++</li>
+  <li>web desgin</li>
+  
+</ul>
+
+
+<p> This is my table
+
+
+<table
+
+border = "1"
+
+
+        
+
+  <tr>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+  </tr>
+  <tr> 
+    <td>Programmming 1 </td>
+    <td>Fundamental of computing</td>
+    <td>Programming 1 </td>
+    <td>Fundamental of computing</td>
+  </tr>
+<table>  
+
+</tr>
+
+<p>
+
+ 
+
+
+<img src="https://www.breakingbelizenews.com/wp-content/uploads/2021/09/University-of-Belize-Book-Store-720x480.jpg"alt=" UB"> 
+
+
+</body>
+</html>
